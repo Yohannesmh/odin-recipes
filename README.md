@@ -1,1 +1,6 @@
 # odin-recipes
+write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+The Odin Project is an online free open source learning environment coding and web developing programmes.
+The project is for those who does not have means to attend the computer science education or finances to attend intensive coding schools. 
+I am one of the many students from the developing country that does not have the means to get access to quality education in the area of their interest. To study computer science or to take intensive codding and programming courses it is difficult as it is comes with hefty price and lack of stable internet  and learning materials such as computers.  
+After completing this valuable free open source coding and programing course I will be able to start new career in full stack web developing and start small project in the area of computer science and programing center that empower under privileged youth in my area. 
